@@ -1,0 +1,15 @@
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\bin\Debug\net6.0\ImportOrderFrpmExcel.exe
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\bin\Debug\net6.0\ImportOrderFrpmExcel.deps.json
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\bin\Debug\net6.0\ImportOrderFrpmExcel.runtimeconfig.json
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\bin\Debug\net6.0\ImportOrderFrpmExcel.dll
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\bin\Debug\net6.0\ImportOrderFrpmExcel.pdb
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.csproj.AssemblyReference.cache
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.AssemblyInfoInputs.cache
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.AssemblyInfo.cs
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.csproj.CoreCompileInputs.cache
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.dll
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\refint\ImportOrderFrpmExcel.dll
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.pdb
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ImportOrderFrpmExcel.genruntimeconfig.cache
+C:\Akash\Home Projects\ImportOrderFrpmExcel\ImportOrderFrpmExcel\obj\Debug\net6.0\ref\ImportOrderFrpmExcel.dll
